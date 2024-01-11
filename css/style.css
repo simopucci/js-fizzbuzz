@@ -1,0 +1,12 @@
+.card {
+    width: 100px;
+    height: 100px;
+}
+
+h1 {
+    font-size: 6rem;
+}
+
+h3 {
+    line-height: 100px;
+}
